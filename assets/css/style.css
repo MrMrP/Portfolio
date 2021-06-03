@@ -341,7 +341,7 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url('../images/new img/services-bg.jpg');
+    background-image: url('../images/services-bg.jpg');
     background-size: cover;
     color: var(--clr-light);
     text-align: center;
@@ -642,7 +642,7 @@ section.skills {
 
 #contact {
     padding-bottom: 0.5em !important;
-    background-image: url("../images/new img/75058A3A-0B2F-45F2-B823-C666C3E088BD.jpeg");
+    background-image: url("../images/75058A3A-0B2F-45F2-B823-C666C3E088BD.jpeg");
     background-position: left center;
     background-attachment: fixed;
     background-repeat: no-repeat;
