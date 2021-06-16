@@ -605,6 +605,11 @@ section.skills {
     animation: python 3s;
 }
 
+.uxui {
+    width: 60%;
+    animation: nodejs 3s;
+}
+
 
 @keyframes html {
     0% {
@@ -672,6 +677,16 @@ section.skills {
 
     100% {
         width: 35%;
+    }
+}
+
+@keyframes uxui {
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 60%;
     }
 }
 
